@@ -50,10 +50,6 @@ The trained model is deployed using **FastAPI**.
 - Get prediction (Normal / Pneumonia)
 - Interactive API documentation using Swagger UI
 
-### Access Swagger UI:
-http://127.0.0.1:8000/docs
-
----
 
 ## 🛠 Tech Stack
 
